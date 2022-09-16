@@ -2,7 +2,7 @@
 This project is all about fractals.  Here you can find examples of them drawn using P5.js.
 
 ## Set up
-One way you can view the shapes is by using the p5 web editor [here](https://editor.p5js.org).
+One way you can view the shapes is by using the p5 web editor [here](https://editor.p5js.org/FadoBagy/sketches/8dgrafqAr).
 Or you can download [this](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode) Visual Studio Code extension and run the code there.
 
 ## Usage
